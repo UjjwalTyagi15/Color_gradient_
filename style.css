@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right,red ,rgb(200, 226, 48)) ;
+}
+
+h1{
+display:flex;
+justify-content: center;
+background-color: rgb(172, 194, 77);
+color: brown;
+
+}
+
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-decoration: underline;
+    
+}
